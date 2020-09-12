@@ -1,0 +1,40 @@
+html { font-family: "Cambria" }
+
+body { background: white; margin: 0; padding: 0; }
+
+/* Essenciais */
+	.fl { float: left; }
+	.cls { clear: both; }
+/* Essenciais */
+
+/* Main */
+	.mainPA { margin: 0 auto; background-color: white; width: 890px; margin-top: 38px;
+	padding: 17px 8px 15px 8px; color: #2f3872;  border-bottom: 1px solid #8c8c8c; }
+
+	.tituloCol1 { margin-top: -25px; margin-bottom: -21px; font-size: 27px;
+	text-align: center; font-weight: bold; }
+
+.col1 { height: 574px; }
+
+	.tituloNoticia { padding-left: 5px; padding-right: 5px; margin-top: 0px; font-weight: bold; }
+
+		.linhaFina { padding-left: 5px; padding-right: 5px; margin-top: 0px; }
+
+			.col1Img { height: 460px; width: 879px; background-color: black;
+			margin-top: 5px; margin-left: 5px; }
+
+	.boxNoticia { width: 880px; height: 390px; padding: 9px; border-bottom: 1px solid #8c8c8c;
+	border-top: 1px solid #8c8c8c; } 
+
+	.noticia { margin: 0px; }
+
+	.col3 { margin-top: 0px; }
+
+	.tituloCol3 { margin-top: -25px; margin-bottom: -21px; font-size: 27px;
+	text-align: center; font-weight: bold; }
+
+	.col3Bloco { height: 360px; width: 33.3%; }
+
+		.col3Img { height: 170px; width: 288px; background-color: black;
+		margin-top: 5px; margin-left: 5px; }	
+/* Main */

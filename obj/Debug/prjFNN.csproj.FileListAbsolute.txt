@@ -1,0 +1,18 @@
+C:\Users\32582\Desktop\prjFNN\prjFNN\bin\prjFNN.dll
+C:\Users\32582\Desktop\prjFNN\prjFNN\bin\prjFNN.pdb
+C:\Users\32582\Desktop\prjFNN\prjFNN\bin\MySql.Data.dll
+C:\Users\32582\Desktop\prjFNN\prjFNN\obj\Debug\prjFNN.csprojResolveAssemblyReference.cache
+C:\Users\32582\Desktop\prjFNN\prjFNN\obj\Debug\prjFNN.dll
+C:\Users\32582\Desktop\prjFNN\prjFNN\obj\Debug\prjFNN.pdb
+C:\Users\32582\Desktop\prjFNN_Final\prjFNN\prjFNN\bin\prjFNN.dll
+C:\Users\32582\Desktop\prjFNN_Final\prjFNN\prjFNN\bin\prjFNN.pdb
+C:\Users\32582\Desktop\prjFNN_Final\prjFNN\prjFNN\bin\MySql.Data.dll
+C:\Users\32582\Desktop\prjFNN_Final\prjFNN\prjFNN\obj\Debug\prjFNN.csprojResolveAssemblyReference.cache
+C:\Users\32582\Desktop\prjFNN_Final\prjFNN\prjFNN\obj\Debug\prjFNN.dll
+C:\Users\32582\Desktop\prjFNN_Final\prjFNN\prjFNN\obj\Debug\prjFNN.pdb
+C:\Users\elian\OneDrive\Área de Trabalho\prjFNN_Final\prjFNN\prjFNN\obj\Debug\prjFNN.csprojResolveAssemblyReference.cache
+C:\Users\elian\OneDrive\Área de Trabalho\prjFNN_Final\prjFNN\prjFNN\obj\Debug\prjFNN.dll
+C:\Users\elian\OneDrive\Área de Trabalho\prjFNN_Final\prjFNN\prjFNN\bin\prjFNN.dll
+C:\Users\elian\OneDrive\Área de Trabalho\prjFNN_Final\prjFNN\prjFNN\bin\prjFNN.pdb
+C:\Users\elian\OneDrive\Área de Trabalho\prjFNN_Final\prjFNN\prjFNN\bin\MySql.Data.dll
+C:\Users\elian\OneDrive\Área de Trabalho\prjFNN_Final\prjFNN\prjFNN\obj\Debug\prjFNN.pdb

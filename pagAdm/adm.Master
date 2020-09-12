@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="adm.master.cs" Inherits="prjFNN.pagAdm.adm" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Página do ADM - FNN</title>
+    <meta charset="utf-8" />
+    <link href="../css/estiloAdm.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header class="cabecalho">
+            <div class="contCabecalho">
+                <div class="logoHeader fl"></div>
+                <div class="menu fl">
+                    <ul id="nav" class="">
+                        <li class="fl">
+                            <a href="alterarSenha.aspx">Alterar Senha</a>
+                        </li>
+                        <li class="fl">
+                            <a href="gerenciarNoticias.aspx">Notícias</a>
+                        </li>
+                        <li class="fl">
+                            <a href="contasAdm.aspx">Contas</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="sair fl">
+                    <ul id="ul" class="contSair">
+                        <li>
+                            <a href="sair.aspx">Sair</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </header>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>

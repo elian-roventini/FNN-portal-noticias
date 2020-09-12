@@ -1,0 +1,84 @@
+html { font-family: "Cambria" }
+
+body { background: white; margin: 0; padding: 0; }
+
+/* Essenciais */
+	.fl { float: left; }
+	.cls { clear: both; }
+	
+	p { margin: 0; margin-left: 6px; }
+/* Essenciais */
+
+/* Header */
+	.cabecalho { background: white; width: 100%; height: 150px; }
+
+	.bannerLogo { height: 120px; background-color: #2f3872; margin: 0 auto; }
+
+	.logo { height: 100px; width: 100px; 
+	margin: 0 auto; }
+
+	.conteudo { height: 30px; background-color: white; width: 100%; margin: 0 auto; 
+	text-align: center; position: sticky; top: 10px; padding-top: 7px; 
+	border-bottom: 1px solid #2f3872; }
+	
+	    .conteudo p {float: left; margin: 0; width: 20%;}
+
+	.linkHeader { color: #2f3872; text-decoration: none; margin-left: 20px;
+	font-size: 18px; }
+
+	.linkHeader:hover { color: #6976ce; transition: 0.5s; }
+/* Header */
+
+/* Main */
+	.main { margin: 0 auto; background-color: white; width: 890px; margin-top: 38px;
+	padding: 17px 8px 15px 8px; color: #2f3872;  border-bottom: 1px solid #8c8c8c; }
+
+	.tituloCol1 { margin-top: -25px; margin-bottom: -21px; font-size: 27px;
+	text-align: center; font-weight: bold; margin-bottom: 40px; }
+
+.col1 { height: 620px; }
+
+	.tituloNoticia { padding-left: 5px; padding-right: 5px; margin-top: 0px; font-weight: bold; }
+
+		.linhaFina { padding-left: 5px; padding-right: 5px; margin-top: 0px; }
+
+			.col1Img { height: 460px; width: 879px; background-color: black;
+			margin-top: 5px; margin-left: 5px; }
+
+	.anuncio { height: 115px; width: 890px; margin: 0 auto; background-color: #000033; 
+	margin-top: 2px; margin-bottom: 30px; }
+
+/*.col2 { margin-top: 17px; margin-bottom: 6px; height: 360px; border-bottom: 1px solid #8c8c8c; 
+border-top: 1px solid #8c8c8c; padding-top: 10px; padding-bottom: 13px; } */	
+
+	.col2 { height: 360px; width: 50%; }
+
+			.col2Img { height: 224px; width: 432px; background-color: black;
+			margin-top: 5px; margin-left: 5px; }
+
+.col3 { margin-top: 0px; }
+
+	.col3Bloco { height: 360px; width: 33.3%; }
+
+		.col3Img { height: 170px; width: 288px; background-color: black;
+		margin-top: 5px; margin-left: 5px; }
+		
+		a.linkPadrao { text-decoration: none; color:#000; }
+            a.linkPadrao:hover { color:#1067b8;}	
+/* Main */
+
+/* Footer */
+	footer { margin: 0 auto; margin-top: 32px; height: 134px; background-color: #2f3872; }
+
+	.footerCont_box { width: 906px; height: 130px; margin: 0 auto; padding-top: 4px; }
+
+	.footerCont_box--copyright { height: 126px; width: 702px;
+	margin: 0 auto; } .footerCont_box--copyright h3 { padding-top: 53px; width: 457px; 
+	margin-top: 0px; height: 25px; text-align: center; color: white; }
+
+	.footerCont_box--redesSociais { height: 94px; width: 245px;
+	float: right; margin-top: -77px; border-left: 1px solid white; }
+
+	.boxRedeSocial { height: 40px; width: 40px; float: left; margin-top: 23.5px; 
+	margin-left: 22px; }
+/* Footer */

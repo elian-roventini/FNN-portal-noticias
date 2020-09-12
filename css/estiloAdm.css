@@ -1,0 +1,51 @@
+/* CSS Document */
+
+/* Padronizacao */
+html { font-family: Gadugi; }
+body{ margin: 0; padding: 0; min-height: 768px; }
+
+.fl { float: left; }
+.cls { clear:both; }
+
+.cor1 { background-color: #1853b2; }
+.cor2 { background-color: #48ce2d; }
+.cor3 { background-color: #BABA00; }
+.cor4 { background-color: #074c75; }
+.cor5 { background-color: #8e2077; }
+.cor6 { background-color: #846e79; }
+.cor7 { background-color: #b21731; }
+
+.cabecalho { min-height: 75px; background-color: #2f3872; }
+.contHeader { width: 1000px; min-height: 75px; margin: auto; }
+
+/* Cabecalho */
+
+.cabecalho { width: 100%; position: fixed; height: 100px; }
+	.contCabecalho { width: 980px; padding: 10px; margin: auto; height: 80px; }
+
+.logoHeader { width: 25%; height: 100%; }
+
+.menu { width: 50%; height: 100%; }
+	#nav { width: 60%; height: 75%; margin: auto; margin-top: 10px; list-style: none; padding-left: 0px; }
+	#nav li { font-size: 14px; font-family: arial; width: 98px; text-align: center; margin-top: 22px; }
+	#nav li a { text-decoration: none; color: white; }
+
+.sair { width: 25%; height: 100%; }
+.sair ul li a { text-decoration: none; color: white; }
+.contSair { width: 50%; height: 50%; margin: auto; margin-top: 20px; border-radius: 5px; }
+
+	
+
+#ul { padding-left: 0px; }
+	#ul li { list-style: none; padding-left: 0px; text-align: center; font-size: 14px; font-family: arial; padding-top: 12px; }
+
+/* Principal */
+
+.principal { width: 1000px; min-height: 210px; margin: auto; padding-top: 100px; }
+	.principal_labelADM { height: 40px; width: 450px; background-color: #2f3872; margin: 0 auto; border-top-right-radius: 10px;
+	border-top-left-radius: 10px; color: white; }
+	.principal_labelADM p { text-align: center; font-size: 24px; padding-top: 2px; }
+
+	.principal_labelDescricao { background-color: white; height: 100px; width: 450px; margin: 0 auto;
+	border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; border: 1px solid #2f3872; color: #2f3872; }
+	.principal_labelDescricao p { margin-top: 0; padding-left: 5px; padding-right: 5px; text-align: center; }

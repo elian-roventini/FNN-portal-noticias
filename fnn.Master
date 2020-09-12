@@ -1,0 +1,66 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="fnn.master.cs" Inherits="prjFNN.fnn" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Portal FNN</title>
+    <link rel="stylesheet" type="text/css" href="css/estiloIndex.css">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+    <header>
+		<div class="cabecalho">
+			<div class="bannerLogo">
+				<div class="logo"><a href="index.aspx"><img src="images/FNN_logo.png" width="160px"; height="120px"></a>
+				</div>
+			</div>
+			<div class="conteudo">
+                <asp:Literal ID="litItens" runat="server"></asp:Literal>
+				<%--<a href="#" class="linkHeader">Políticas</a>
+				<a href="#" class="linkHeader">Esportes</a>
+				<a href="#" class="linkHeader">Saúde</a>
+				<a href="#" class="linkHeader">Entretenimento</a>
+				<a href="#" class="linkHeader">Música</a>--%>
+			</div>
+			<div class="cls"></div>
+		</div>
+	</header>
+
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+
+    <footer>
+		<div class="footerCont">
+			<div class="footerCont_box">
+				<div class="footerCont_box--copyright">
+				<h3>2019 © FNN - Todos os direitos reservados</h3>	
+					<div class="footerCont_box--redesSociais">
+						<div class="boxRedeSocial">
+							<a href="http://www.facebook.com"><img src="images/iconFacebook.png" width="40"></a>
+						</div>
+						<div class="boxRedeSocial">
+							<a href="http://www.instagram.com"><img src="images/iconInstagram.png" width="40"></a>
+						</div>
+						<div class="boxRedeSocial">
+							<a href="http://www.twitter.com"><img src="images/iconTwitter.png" width="40"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="cls"></div>
+	</footer>
+
+    </form>
+</body>
+</html>
